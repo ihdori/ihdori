@@ -11,8 +11,6 @@ I love to collaborate with people with different backgrounds and ways of seeing 
 
 
 
----
-[![](https://visitcount.itsvg.in/api?id=ihdori&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!--
 **ihdori/ihdori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
